@@ -1,5 +1,5 @@
 <!--
-  Mohamed Shaheel — GitHub Profile README · v4.4 · 2026-06
+  Mohamed Shaheel — GitHub Profile README · v4.5 · 2026-06
   ──────────────────────────────────────────────────────────
   ATS keyword index (invisible to human readers):
   Python · Java · TensorFlow · OpenCV · MobileNetV2 · Flask
