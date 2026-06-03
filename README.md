@@ -1,5 +1,5 @@
 <!--
-  Mohamed Shaheel — GitHub Profile README · v4.2 · 2026-06
+  Mohamed Shaheel — GitHub Profile README · v4.3 · 2026-06
   ──────────────────────────────────────────────────────────
   ATS keyword index (invisible to human readers):
   Python · Java · TensorFlow · OpenCV · MobileNetV2 · Flask · FastAPI
@@ -51,19 +51,16 @@ I'm a Computer Science undergraduate at KPRIET, Coimbatore (2023–Present, CGPA
 
 My work sits at the intersection of **Computer Vision**, **Healthcare AI**, and **Privacy-preserving ML**. I have shipped four end-to-end projects: from a 23-class skin disease classifier to a fully offline, 18-language medical assistant that runs on a rural health worker's laptop without internet.
 
-```
-Focus areas
-────────────────────────────────────────────────────────────────
-Computer Vision    →  classification · detection · drone imagery
-Healthcare AI      →  offline multilingual assistants · SOAP notes
-Privacy AI         →  PII detection · AES/RSA encryption pipelines
-MLOps              →  model optimization · prompt engineering · deployment
-────────────────────────────────────────────────────────────────
-Currently building →  Offline multilingual AI for rural clinics
-Open to            →  ML Internships · Research Roles · AI Projects
-```
+| Focus area | What I build |
+|:-----------|:-------------|
+| Computer Vision | classification · object detection · drone imagery pipelines |
+| Healthcare AI | offline multilingual assistants · SOAP note generation |
+| Privacy AI | PII detection · AES/RSA encryption pipelines |
+| MLOps | model optimization · prompt engineering · FastAPI deployment |
 
-**→ See my full portfolio at [mshaheel.vercel.app](https://mshaheel.vercel.app)**
+🟢 **Currently building** — Offline multilingual AI for rural clinics &nbsp;·&nbsp; **Open to** ML Internships · Research Roles · AI Projects
+
+**→ [mshaheel.vercel.app](https://mshaheel.vercel.app)**
 
 <br/>
 
@@ -163,7 +160,7 @@ Open to            →  ML Internships · Research Roles · AI Projects
 
 <div align="center">
 
-<!-- github-readme-stats: best-effort public instance. cache_seconds=86400 set for maximum CDN caching. Self-host via Actions if cards break persistently: github.com/anuraghazra/github-readme-stats -->
+<!-- github-readme-stats: best-effort public instance. cache_seconds=86400 set. Self-host via Actions if cards break: github.com/anuraghazra/github-readme-stats -->
 
 <a href="https://github.com/Shaheel-08">
   <img
@@ -186,6 +183,15 @@ Open to            →  ML Internships · Research Roles · AI Projects
 <img
   src="https://streak-stats.demolab.com?user=Shaheel-08&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&border_radius=6"
   alt="GitHub Streak — Shaheel-08"
+/>
+
+<br/>
+
+<!-- Activity graph: github-readme-activity-graph.vercel.app — current canonical endpoint, actively maintained -->
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Shaheel-08&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&area_color=1f6feb&hide_border=true"
+  alt="Contribution Activity Graph — Shaheel-08"
 />
 
 </div>
