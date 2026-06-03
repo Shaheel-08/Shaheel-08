@@ -1,7 +1,7 @@
 <!--
-  Mohamed Shaheel — GitHub Profile README  ·  v4.1  ·  2026-06
-  ─────────────────────────────────────────────────────────────────
-  ATS keyword index (parsed by crawlers, invisible to humans):
+  Mohamed Shaheel — GitHub Profile README · v4.2 · 2026-06
+  ──────────────────────────────────────────────────────────
+  ATS keyword index (invisible to human readers):
   Python · Java · TensorFlow · OpenCV · MobileNetV2 · Flask · FastAPI
   React · Electron.js · SQLite · Git · GitHub · Machine Learning
   Deep Learning · Transfer Learning · Computer Vision · Healthcare AI
@@ -10,15 +10,7 @@
   Skin Disease AI · PII Encryption · AES · RSA · Streamlit
   Model Optimization · Inference · Deployment · SOAP Notes
   Image Classification · Multilingual AI · Offline AI
-  ─────────────────────────────────────────────────────────────────
--->
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━  HEADER  ━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--
-  capsule-render.vercel.app: community-hosted, Vercel free-tier.
-  Occasionally rate-limited but degrades gracefully — broken image
-  shows alt text only, no layout damage. type=soft chosen for fewest
-  render params and lowest failure rate.
+  ──────────────────────────────────────────────────────────
 -->
 
 <div align="center">
@@ -33,13 +25,11 @@
 
 </div>
 
-<!-- ━━━━━━━━━━━━━━━━━━  IDENTITY STRIP  ━━━━━━━━━━━━━━━━━━ -->
-
 <div align="center">
 
 [![Open to Opportunities](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to-Internships%20%26%20Research-238636?style=flat-square&labelColor=21262d)](https://github.com/Shaheel-08)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-mshaheel.vercel.app-58A6FF?style=flat-square&labelColor=21262d)](https://mshaheel.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mshaheel.vercel.app-58A6FF?style=flat-square&logo=vercel&logoColor=white&labelColor=21262d)](https://mshaheel.vercel.app)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Shaheel-1F6FEB?style=flat-square&logo=linkedin&logoColor=white&labelColor=21262d)](https://www.linkedin.com/in/mohamed-shaheel-278aa8309/)
 &nbsp;
@@ -49,18 +39,11 @@
 
 <br/>
 
-<!--
-  readme-typing-svg.demolab.com: DenverCoder1's purpose-built hosting.
-  Actively maintained as of 2026; recommended canonical URL.
--->
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1400&color=58A6FF&center=true&vCenter=true&width=680&lines=Building+AI+that+works+in+the+real+world.;Computer+Vision+%7C+Deep+Learning+%7C+LLMs;Healthcare+AI+%7C+Privacy+%7C+Disaster+Response;KPR+Ignitron+Hackathon+Winner+%F0%9F%8F%86+%C2%B7+SIH+Top+50)](https://github.com/Shaheel-08)
 
 </div>
 
 <br/>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━  ABOUT  ━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## About
 
@@ -74,7 +57,7 @@ Focus areas
 Computer Vision    →  classification · detection · drone imagery
 Healthcare AI      →  offline multilingual assistants · SOAP notes
 Privacy AI         →  PII detection · AES/RSA encryption pipelines
-MLOps              →  model optimization · FastAPI · deployment
+MLOps              →  model optimization · prompt engineering · deployment
 ────────────────────────────────────────────────────────────────
 Currently building →  Offline multilingual AI for rural clinics
 Open to            →  ML Internships · Research Roles · AI Projects
@@ -84,14 +67,7 @@ Open to            →  ML Internships · Research Roles · AI Projects
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━  STACK  ━━━━━━━━━━━━━━━━━━━━━━━ -->
-
 ## Stack
-
-<!--
-  All shields.io static-label badges. Non-profit, CDN-cached, running
-  since 2013. Risk: VERY LOW.
--->
 
 <div align="center">
 
@@ -128,8 +104,6 @@ Open to            →  ML Internships · Research Roles · AI Projects
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━  PROJECTS  ━━━━━━━━━━━━━━━━━━━━ -->
-
 ## Projects
 
 <div align="center">
@@ -145,21 +119,17 @@ Open to            →  ML Internships · Research Roles · AI Projects
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━  PORTFOLIO CTA  ━━━━━━━━━━━━━━━━━━ -->
-
 ## Portfolio
 
 <div align="center">
 
-[![Visit Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20%20mshaheel.vercel.app%20%20%E2%86%97-Full%20Project%20Showcase-58A6FF?style=for-the-badge&labelColor=0d1117)](https://mshaheel.vercel.app)
+[![Visit Portfolio](https://img.shields.io/badge/%20mshaheel.vercel.app%20%E2%86%97-Full%20Project%20Showcase-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://mshaheel.vercel.app)
 
 *Live demos · project write-ups · contact*
 
 </div>
 
 <br/>
-
-<!-- ━━━━━━━━━━━━━━━━━━━  ACHIEVEMENTS  ━━━━━━━━━━━━━━━━━━ -->
 
 ## Achievements
 
@@ -175,15 +145,13 @@ Open to            →  ML Internships · Research Roles · AI Projects
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━  EXPERIENCE  ━━━━━━━━━━━━━━━━━━━ -->
-
 ## Experience
 
 **InternPe &nbsp;·&nbsp; Full Stack Developer Intern &nbsp;·&nbsp; Jan – Feb 2025 &nbsp;·&nbsp; Remote**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+> ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 - Built responsive web UIs with HTML5 and CSS3 with cross-device compatibility across screen sizes.
 - Applied structured Git workflows — feature branching, pull requests, code review — within a distributed remote team.
@@ -191,19 +159,11 @@ Open to            →  ML Internships · Research Roles · AI Projects
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━  GITHUB STATS  ━━━━━━━━━━━━━━━━━ -->
-
 ## GitHub Stats
 
-<!--
-  RELIABILITY NOTICE — github-readme-stats.vercel.app:
-  The public instance was 503-paused (issue #4737, Jan 2026) and
-  subsequently restored but remains best-effort. cache_seconds=86400
-  is set on both cards to maximise CDN caching. If cards break
-  persistently, self-host via GitHub Actions (anuraghazra/github-readme-stats).
--->
-
 <div align="center">
+
+<!-- github-readme-stats: best-effort public instance. cache_seconds=86400 set for maximum CDN caching. Self-host via Actions if cards break persistently: github.com/anuraghazra/github-readme-stats -->
 
 <a href="https://github.com/Shaheel-08">
   <img
@@ -223,11 +183,6 @@ Open to            →  ML Internships · Research Roles · AI Projects
 
 <br/>
 
-<!--
-  streak-stats.demolab.com: DenverCoder1's dedicated hosting.
-  More reliable than legacy endpoints as of 2026.
--->
-
 <img
   src="https://streak-stats.demolab.com?user=Shaheel-08&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&border_radius=6"
   alt="GitHub Streak — Shaheel-08"
@@ -237,16 +192,9 @@ Open to            →  ML Internships · Research Roles · AI Projects
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━  CONTRIBUTION SNAKE  ━━━━━━━━━━━━━━━━ -->
-
 ## Contribution Activity
 
-<!--
-  Generated daily by GitHub Actions (Platane/snk@v3).
-  SVGs are committed to this repo and served from raw.githubusercontent.com
-  — zero third-party service dependency at render time.
-  Setup: see .github/workflows/snake.yml
--->
+<!-- Generated daily by GitHub Actions (Platane/snk@v3). SVGs committed to this repo — no third-party dependency at render time. Setup: .github/workflows/snake.yml -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaheel-08/Shaheel-08/output/snake-dark.svg" />
@@ -255,8 +203,6 @@ Open to            →  ML Internships · Research Roles · AI Projects
 </picture>
 
 <br/>
-
-<!-- ━━━━━━━━━━━━━━━━━━━  EDUCATION  ━━━━━━━━━━━━━━━━━━━━ -->
 
 ## Education
 
@@ -270,25 +216,21 @@ Open to            →  ML Internships · Research Roles · AI Projects
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━  CONNECT  ━━━━━━━━━━━━━━━━━━━━━ -->
-
 ## Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-mshaheel.vercel.app-58A6FF?style=flat-square&labelColor=21262d)](https://mshaheel.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mshaheel.vercel.app-58A6FF?style=flat-square&logo=vercel&logoColor=white&labelColor=21262d)](https://mshaheel.vercel.app)
 &nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/mohamedshaheel08%40gmail.com-DA3633?style=flat-square&logo=gmail&logoColor=white&labelColor=21262d)](mailto:mohamedshaheel08@gmail.com)
 &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20%E2%80%94%20Mohamed%20Shaheel-1F6FEB?style=flat-square&logo=linkedin&logoColor=white&labelColor=21262d)](https://www.linkedin.com/in/mohamed-shaheel-278aa8309/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Shaheel-1F6FEB?style=flat-square&logo=linkedin&logoColor=white&labelColor=21262d)](https://www.linkedin.com/in/mohamed-shaheel-278aa8309/)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub%20%E2%80%94%20Shaheel--08-e6edf3?style=flat-square&logo=github&logoColor=0d1117&labelColor=21262d)](https://github.com/Shaheel-08)
+[![GitHub](https://img.shields.io/badge/GitHub-Shaheel--08-e6edf3?style=flat-square&logo=github&logoColor=0d1117&labelColor=21262d)](https://github.com/Shaheel-08)
 
 </div>
 
 <br/>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━  FOOTER  ━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
   <sub>Build real things. Solve real problems.</sub>
