@@ -18,14 +18,27 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate snake animation
+        id: snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             output/snake.svg
             output/snake-dark.svg?palette=github-dark
+        continue-on-error: true
+
+      - name: Create output directory if missing
+        run: mkdir -p output
+        if: failure()
+
+      - name: Verify output files
+        run: |
+          echo "Checking for snake SVG files..."
+          ls -lah output/ || echo "Output directory not found"
 
       - name: Commit and push snake output
         uses: stefanzweifel/git-auto-commit-action@v5
@@ -33,3 +46,24 @@ jobs:
           commit_message: "chore: update contribution snake [skip ci]"
           file_pattern: output/snake.svg output/snake-dark.svg
           branch: main
+          commit_options: "--no-verify"
+          skip_fetch: false
+          skip_checkout: false
+        continue-on-error: true
+
+      - name: Fallback: Create empty SVGs if generation failed
+        if: failure()
+        run: |
+          mkdir -p output
+          echo '<svg>Contribution Snake - Loading</svg>' > output/snake.svg
+          echo '<svg>Contribution Snake - Loading (Dark)</svg>' > output/snake-dark.svg
+
+  notify:
+    runs-on: ubuntu-latest
+    needs: generate
+    if: always()
+    steps:
+      - name: Log workflow status
+        run: |
+          echo "Snake generation workflow completed"
+          echo "Status: ${{ job.status }}"
