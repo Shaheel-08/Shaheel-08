@@ -1,15 +1,13 @@
 <!--
-  Mohamed Shaheel — GitHub Profile README · v4.3 · 2026-06
+  Mohamed Shaheel — GitHub Profile README · v4.4 · 2026-06
   ──────────────────────────────────────────────────────────
   ATS keyword index (invisible to human readers):
-  Python · Java · TensorFlow · OpenCV · MobileNetV2 · Flask · FastAPI
-  React · Electron.js · SQLite · Git · GitHub · Machine Learning
-  Deep Learning · Transfer Learning · Computer Vision · Healthcare AI
-  Privacy AI · NLP · LLMs · RAG · MLOps · Prompt Engineering
-  Whisper · Ollama · LLaMA 3 · Disaster Response · Object Detection
-  Skin Disease AI · PII Encryption · AES · RSA · Streamlit
-  Model Optimization · Inference · Deployment · SOAP Notes
-  Image Classification · Multilingual AI · Offline AI
+  Python · Java · TensorFlow · OpenCV · MobileNetV2 · Flask
+  React · Electron.js · SQLite · Git · GitHub · Ollama · LLaMA 3
+  Machine Learning · Deep Learning · Computer Vision · Healthcare AI
+  Privacy AI · Cryptography · Disaster Response · Object Detection
+  Skin Disease Classification · Offline AI · Multilingual AI
+  Image Processing · HTML · CSS · Full Stack Development
   ──────────────────────────────────────────────────────────
 -->
 
@@ -39,7 +37,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1400&color=58A6FF&center=true&vCenter=true&width=680&lines=Building+AI+that+works+in+the+real+world.;Computer+Vision+%7C+Deep+Learning+%7C+LLMs;Healthcare+AI+%7C+Privacy+%7C+Disaster+Response;KPR+Ignitron+Hackathon+Winner+%F0%9F%8F%86+%C2%B7+SIH+Top+50)](https://github.com/Shaheel-08)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1400&color=58A6FF&center=true&vCenter=true&width=680&lines=Building+AI+that+works+in+the+real+world.;Computer+Vision+%7C+Deep+Learning+%7C+Machine+Learning;Healthcare+AI+%7C+Privacy+%7C+Disaster+Response;KPR+Ignitron+Hackathon+Winner+%F0%9F%8F%86+%C2%B7+SIH+Top+50)](https://github.com/Shaheel-08)
 
 </div>
 
@@ -47,18 +45,18 @@
 
 ## About
 
-I'm a Computer Science undergraduate at KPRIET, Coimbatore (2023–Present, CGPA 8.05), building AI systems designed to function under real-world constraints — offline environments, under-resourced healthcare clinics, and active disaster response operations.
+I'm a Computer Science undergraduate at KPRIET, Coimbatore (2023–Present, CGPA 8.05), building AI systems that solve real problems under real-world constraints — limited connectivity, under-resourced healthcare settings, and disaster response operations.
 
-My work sits at the intersection of **Computer Vision**, **Healthcare AI**, and **Privacy-preserving ML**. I have shipped four end-to-end projects: from a 23-class skin disease classifier to a fully offline, 18-language medical assistant that runs on a rural health worker's laptop without internet.
+My work spans **Computer Vision**, **Healthcare AI**, and **Privacy & Security AI** — four end-to-end projects built with Python, TensorFlow, React, and more. I'm actively looking for opportunities to apply what I've built to larger problems.
 
 | Focus area | What I build |
 |:-----------|:-------------|
-| Computer Vision | classification · object detection · drone imagery pipelines |
-| Healthcare AI | offline multilingual assistants · SOAP note generation |
-| Privacy AI | PII detection · AES/RSA encryption pipelines |
-| MLOps | model optimization · prompt engineering · FastAPI deployment |
+| Computer Vision | image classification · object detection · drone footage analysis |
+| Healthcare AI | offline AI assistants · multilingual support (Tamil, Hindi, Telugu) |
+| Privacy & Security | PII detection · cryptographic data protection |
+| Full Stack | React · Electron · Flask · SQLite |
 
-🟢 **Currently building** — Offline multilingual AI for rural clinics &nbsp;·&nbsp; **Open to** ML Internships · Research Roles · AI Projects
+🟢 **Open to** ML Internships · Software Engineering Internships · Research Roles · Open Source
 
 **→ [mshaheel.vercel.app](https://mshaheel.vercel.app)**
 
@@ -80,12 +78,10 @@ My work sits at the intersection of **Computer Vision**, **Healthcare AI**, and 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![MobileNetV2](https://img.shields.io/badge/MobileNetV2-0288D1?style=flat-square&logo=google&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
 ![Ollama · LLaMA 3](https://img.shields.io/badge/Ollama%20%C2%B7%20LLaMA3-238636?style=flat-square&logo=meta&logoColor=white)
 
 **Backend · Frontend**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Electron](https://img.shields.io/badge/Electron.js-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9)
@@ -105,12 +101,12 @@ My work sits at the intersection of **Computer Vision**, **Healthcare AI**, and 
 
 <div align="center">
 
-| Project | Stack | What it solves |
-|:--------|:------|:---------------|
-| [**🏥 MedConnect — Rural Health AI**](https://github.com/Shaheel-08/rural-health-ai) | Python · React · FastAPI · Whisper · LLaMA 3 · SQLite · Electron | Fully **offline** AI medical assistant for rural healthcare workers · **18+ Indian languages** via Whisper speech recognition · SOAP note generation · patient history tracking |
-| [**🩺 AI Skin Disease Classifier**](https://github.com/Shaheel-08/AI-powered-Skin-disease-classification) | Python · TensorFlow · MobileNetV2 · Flask | Classifies **23 skin conditions** from patient images · MobileNetV2 transfer learning, optimized for low-latency inference on resource-constrained devices |
-| [**🔐 PII Detection & Encryption**](https://github.com/Shaheel-08/PII-Encryption) | Python · RAG · Streamlit · AES · RSA | Detects sensitive personal data in documents via RAG pipeline · encrypts findings end-to-end with AES/RSA · privacy-first, zero-leakage design |
-| [**🚁 Drone Disaster Response**](https://github.com/Shaheel-08/Disaster-Relief-Management-Through-Drone) | Python · TensorFlow · OpenCV | Real-time computer vision pipeline on drone footage · locates and classifies disaster victims · reduces time-to-rescue in emergency operations |
+| Project | Stack | What it does |
+|:--------|:------|:-------------|
+| [**🏥 MedConnect — Rural Health AI**](https://github.com/Shaheel-08/rural-health-ai) | React · Electron · Ollama (LLaMA 3) · SQLite | Offline AI chatbot for rural healthcare workers · first-aid guidance without internet · supports **Tamil, Hindi & Telugu** |
+| [**🩺 AI Skin Disease Classifier**](https://github.com/Shaheel-08/AI-powered-Skin-disease-classification) | Python · TensorFlow · MobileNetV2 · Flask | Classifies **23 skin conditions** from medical images using deep learning · MobileNetV2 backbone optimised for efficient inference |
+| [**🔐 PII Detection & Encryption**](https://github.com/Shaheel-08/PII-Encryption) | Python · TensorFlow · OpenCV · Cryptography | Detects sensitive personal data in text and images · applies cryptographic encryption to protect findings |
+| [**🚁 Drone Disaster Response**](https://github.com/Shaheel-08/Disaster-Relief-Management-Through-Drone) | Python · TensorFlow · OpenCV | Computer vision pipeline on drone footage · identifies disaster victims in real time to support faster rescue |
 
 </div>
 
@@ -150,9 +146,8 @@ My work sits at the intersection of **Computer Vision**, **Healthcare AI**, and 
 > ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 > ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- Built responsive web UIs with HTML5 and CSS3 with cross-device compatibility across screen sizes.
-- Applied structured Git workflows — feature branching, pull requests, code review — within a distributed remote team.
-- Delivered full-stack features end-to-end across frontend and backend in a production environment.
+- Developed responsive web interfaces using HTML and CSS with backend integration.
+- Used Git and GitHub for version control and collaborative development.
 
 <br/>
 
@@ -187,7 +182,7 @@ My work sits at the intersection of **Computer Vision**, **Healthcare AI**, and 
 
 <br/>
 
-<!-- Activity graph: github-readme-activity-graph.vercel.app — current canonical endpoint, actively maintained -->
+<!-- Activity graph: github-readme-activity-graph.vercel.app — current canonical endpoint -->
 <img
   width="100%"
   src="https://github-readme-activity-graph.vercel.app/graph?username=Shaheel-08&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&area_color=1f6feb&hide_border=true"
@@ -247,7 +242,7 @@ My work sits at the intersection of **Computer Vision**, **Healthcare AI**, and 
 <div align="center">
   <a href="https://github.com/Shaheel-08">
     <img
-      src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=80&section=footer&desc=Mohamed%20Shaheel%20%E2%80%A2%20Coimbatore%2C%20India%20%E2%80%A2%20AI%20%2F%20ML%20Engineer&descAlignY=50&descSize=13&descColor=6e7681&stroke=21262d&strokeWidth=1"
+      src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=80&section=footer&desc=Mohamed%20Shaheel%20%E2%80%A2%20Coimbatore%2C%20India%20%E2%80%A2%20Aspiring%20ML%20Engineer&descAlignY=50&descSize=13&descColor=6e7681&stroke=21262d&strokeWidth=1"
       width="100%"
       alt="Footer"
     />
