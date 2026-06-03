@@ -1,5 +1,5 @@
 <!--
-  Mohamed Shaheel — GitHub Profile README · v4.5 · 2026-06
+  Mohamed Shaheel — GitHub Profile README · v4.6 · 2026-06
   ──────────────────────────────────────────────────────────
   ATS keyword index (invisible to human readers):
   Python · Java · TensorFlow · OpenCV · MobileNetV2 · Flask
@@ -14,11 +14,7 @@
 <div align="center">
 
 <a href="https://github.com/Shaheel-08">
-  <img
-    src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=160&section=header&text=Mohamed%20Shaheel&fontSize=48&fontColor=e6edf3&fontAlignY=50&desc=Building%20AI%20Systems%20for%20Healthcare%2C%20Privacy%20%26%20Disaster%20Response&descAlignY=75&descSize=15&descColor=6e7681&stroke=21262d&strokeWidth=1"
-    width="100%"
-    alt="Mohamed Shaheel — AI / ML Engineer"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=160&section=header&text=Mohamed%20Shaheel&fontSize=48&fontColor=e6edf3&fontAlignY=50&desc=Building%20AI%20Systems%20for%20Healthcare%2C%20Privacy%20%26%20Disaster%20Response&descAlignY=75&descSize=15&descColor=6e7681&stroke=21262d&strokeWidth=1" width="100%" alt="Mohamed Shaheel — AI / ML Engineer" />
 </a>
 
 </div>
@@ -158,36 +154,21 @@ My work spans **Computer Vision**, **Healthcare AI**, and **Privacy & Security A
 <!-- github-readme-stats: best-effort public instance. cache_seconds=86400 set. Self-host via Actions if cards break: github.com/anuraghazra/github-readme-stats -->
 
 <a href="https://github.com/Shaheel-08">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Shaheel-08&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&border_radius=6&cache_seconds=86400"
-    alt="GitHub Stats — Shaheel-08"
-  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shaheel-08&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&border_radius=6&cache_seconds=86400" alt="GitHub Stats — Shaheel-08" />
 </a>
 &nbsp;
 <a href="https://github.com/Shaheel-08">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaheel-08&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8&border_radius=6&cache_seconds=86400"
-    alt="Top Languages — Shaheel-08"
-  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaheel-08&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8&border_radius=6&cache_seconds=86400" alt="Top Languages — Shaheel-08" />
 </a>
 
 <br/>
 
-<img
-  src="https://streak-stats.demolab.com?user=Shaheel-08&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&border_radius=6"
-  alt="GitHub Streak — Shaheel-08"
-/>
+<img src="https://streak-stats.demolab.com?user=Shaheel-08&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&border_radius=6" alt="GitHub Streak — Shaheel-08" />
 
 <br/>
 
 <!-- Activity graph: github-readme-activity-graph.vercel.app — current canonical endpoint -->
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Shaheel-08&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&area_color=1f6feb&hide_border=true"
-  alt="Contribution Activity Graph — Shaheel-08"
-/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shaheel-08&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" alt="Contribution Activity Graph — Shaheel-08" />
 
 </div>
 
@@ -198,9 +179,9 @@ My work spans **Computer Vision**, **Healthcare AI**, and **Privacy & Security A
 <!-- Generated daily by GitHub Actions (Platane/snk@v3). SVGs committed to this repo — no third-party dependency at render time. Setup: .github/workflows/snake.yml -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaheel-08/Shaheel-08/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shaheel-08/Shaheel-08/output/snake.svg" />
-  <img alt="Contribution Snake — Shaheel-08" src="https://raw.githubusercontent.com/Shaheel-08/Shaheel-08/output/snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaheel-08/Shaheel-08/main/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shaheel-08/Shaheel-08/main/output/snake.svg" />
+  <img alt="Contribution Snake — Shaheel-08" src="https://raw.githubusercontent.com/Shaheel-08/Shaheel-08/main/output/snake.svg" width="100%" />
 </picture>
 
 <br/>
@@ -241,10 +222,6 @@ My work spans **Computer Vision**, **Healthcare AI**, and **Privacy & Security A
 
 <div align="center">
   <a href="https://github.com/Shaheel-08">
-    <img
-      src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=80&section=footer&desc=Mohamed%20Shaheel%20%E2%80%A2%20Coimbatore%2C%20India%20%E2%80%A2%20Aspiring%20ML%20Engineer&descAlignY=50&descSize=13&descColor=6e7681&stroke=21262d&strokeWidth=1"
-      width="100%"
-      alt="Footer"
-    />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=80&section=footer&desc=Mohamed%20Shaheel%20%E2%80%A2%20Coimbatore%2C%20India%20%E2%80%A2%20Aspiring%20ML%20Engineer&descAlignY=50&descSize=13&descColor=6e7681&stroke=21262d&strokeWidth=1" width="100%" alt="Footer" />
   </a>
 </div>
